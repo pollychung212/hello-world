@@ -1,2 +1,4 @@
 # hello-world
-first time use this
+
+My name is <NAME>.
+My SID is <SID>
