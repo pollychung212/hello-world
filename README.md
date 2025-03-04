@@ -1,6 +1,3 @@
-# hello-world
+# CSCI3251_polly
 
-My name is <NAME>.
-My SID is <SID>
-
-I'm practicing git pull!!!
+This is the project of polly
